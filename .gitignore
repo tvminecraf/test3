@@ -3,8 +3,7 @@
 
 ### dotenv ###
 .env
-.gitignore
-
+test.py
 ### Java ###
 # Compiled class file
 *.class
